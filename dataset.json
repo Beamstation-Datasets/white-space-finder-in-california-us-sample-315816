@@ -6,17 +6,17 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in California that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in California, US",
-  "export_job_id": "cb8c35ff-d457-4a51-9900-d0ce74e91d79",
+  "export_job_id": "5c1a2279-147e-42cc-92ef-e0188d5a67f8",
   "github_org": "Beamstation-Datasets",
   "id_short": 315816,
   "location_name": "California",
   "location_type": "state",
   "repo_name": "white-space-finder-in-california-us-sample-315816",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/315816/beamstation_315816_food_and_drink-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 9.38,
+  "sample_pct": 9.68,
   "sample_records": 12,
-  "sample_sha256": "d7844069d22726ef0548f4f06a29ab2af54c4103a3aa6c034185d11b26efe450",
-  "sample_size_bytes": 66232,
-  "total_records": 128,
-  "updated_at": "2026-04-08T01:00:15.455250+00:00"
+  "sample_sha256": "44b625a1320ec2fe9a23fec52f88a7fcbdb5312fa7b58873659a5c0d67a90c34",
+  "sample_size_bytes": 64489,
+  "total_records": 124,
+  "updated_at": "2026-04-15T06:43:48.724103+00:00"
 }
