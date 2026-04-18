@@ -9,9 +9,9 @@
 | Dataset ID | `315816` |
 | Location | California |
 | Category | Restaurants |
-| Full dataset size | 128 records |
-| Free sample size | 12 records (9.38%) |
-| Last export | 2026-04-08T01:00:15.455250+00:00 |
+| Full dataset size | 124 records |
+| Free sample size | 12 records (9.68%) |
+| Last export | 2026-04-15T06:43:48.724103+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-california-us-sample-315816/releases/download/sample-latest/beamstation_315816_food_and_drink-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
