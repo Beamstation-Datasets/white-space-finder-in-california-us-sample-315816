@@ -1,6 +1,6 @@
 # White Space Finder in California, US
 
-> Free BeamStation sample export with 12 rows and masked direct-contact fields.
+> Free BeamStation sample export with 11 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `315816` |
 | Location | California |
 | Category | Restaurants |
-| Full dataset size | 124 records |
-| Free sample size | 12 records (9.68%) |
-| Last export | 2026-04-15T06:43:48.724103+00:00 |
+| Full dataset size | 117 records |
+| Free sample size | 11 records (9.4%) |
+| Last export | 2026-04-22T12:54:28.307448+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-california-us-sample-315816/releases/download/sample-latest/beamstation_315816_food_and_drink-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
