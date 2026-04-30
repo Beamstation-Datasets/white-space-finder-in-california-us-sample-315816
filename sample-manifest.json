@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2f9eee6a-c94d-4e5a-a1a6-2c2a894a2b84",
+  "export_job_id": "a7790047-0ce4-425f-bdf6-b9805dd2e6ca",
   "id_short": 315816,
-  "published_at": "2026-04-22T19:32:43Z",
+  "published_at": "2026-04-30T07:16:20Z",
   "repo_name": "white-space-finder-in-california-us-sample-315816",
   "sample_asset_name": "beamstation_315816_food_and_drink-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/315816/beamstation_315816_food_and_drink-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 11,
-  "sample_sha256": "96992994d25832deeaf2c93d23ad0421bc74ab09fca804b4ebc24a2bb67d5026",
-  "sample_size_bytes": 59563,
-  "total_records": 117
+  "sample_records": 12,
+  "sample_sha256": "9cdb9d6e60ce401ec873ad5ca1867267e1887e40fa6f451f3414fd32cf9afe71",
+  "sample_size_bytes": 56051,
+  "total_records": 124
 }
